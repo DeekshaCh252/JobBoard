@@ -1,5 +1,6 @@
 package com.spring.SpringBootProject.job;
 
+import com.spring.SpringBootProject.company.Company;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Repository;
